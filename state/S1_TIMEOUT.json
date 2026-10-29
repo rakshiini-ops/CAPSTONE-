@@ -1,0 +1,30 @@
+{
+  "run_id": "S1_TIMEOUT",
+  "scenario_id": "S1",
+  "finished": true,
+  "max_iterations": 6,
+  "token_limit": 6000,
+  "time_limit": 0,
+  "messages": [
+    {
+      "role": "system",
+      "content": "AGENT: Use the supplied tools to process refund requests safely."
+    },
+    {
+      "role": "user",
+      "content": "My order ORD-100048 reached me very late. I would like a refund."
+    }
+  ],
+  "steps": [],
+  "tokens_used": 0,
+  "llm_calls": 0,
+  "elapsed": 4.76837158203125e-07,
+  "result": {
+    "scenario_id": "S1",
+    "status": "FALLBACK_TIMEOUT",
+    "final_answer": "FALLBACK_TIMEOUT: hand off to a human agent. Completed steps=0.",
+    "llm_calls": 0,
+    "tokens_used": 0,
+    "steps": []
+  }
+}

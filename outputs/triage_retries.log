@@ -1,0 +1,49 @@
+[zero-shot] ticket_id=T0002 retry=1 wait=0.0530
+[zero-shot] ticket_id=T0116 retry=1 wait=0.0453
+[zero-shot] ticket_id=T0153 retry=1 wait=0.0484
+[zero-shot] ticket_id=T0039 retry=1 wait=0.0478
+[zero-shot] ticket_id=T0152 retry=1 wait=0.0542
+[zero-shot] ticket_id=T0043 retry=1 wait=0.0535
+[zero-shot] ticket_id=T0111 retry=1 wait=0.0562
+[zero-shot] ticket_id=T0155 retry=1 wait=0.0461
+[zero-shot] ticket_id=T0100 retry=1 wait=0.0503
+[zero-shot] ticket_id=T0068 retry=1 wait=0.0454
+[zero-shot] ticket_id=T0135 retry=1 wait=0.0477
+[zero-shot] ticket_id=T0009 retry=1 wait=0.0513
+[zero-shot] ticket_id=T0067 retry=1 wait=0.0453
+[zero-shot] ticket_id=T0106 retry=1 wait=0.0475
+[zero-shot] ticket_id=T0097 retry=1 wait=0.0531
+[zero-shot] ticket_id=T0003 retry=1 wait=0.0518
+[zero-shot] ticket_id=T0019 retry=1 wait=0.0478
+[zero-shot] ticket_id=T0086 retry=1 wait=0.0524
+[zero-shot] ticket_id=T0065 retry=1 wait=0.0551
+[few-shot] ticket_id=T0002 retry=1 wait=0.0530
+[few-shot] ticket_id=T0116 retry=1 wait=0.0453
+[few-shot] ticket_id=T0153 retry=1 wait=0.0484
+[few-shot] ticket_id=T0039 retry=1 wait=0.0478
+[few-shot] ticket_id=T0152 retry=1 wait=0.0542
+[few-shot] ticket_id=T0043 retry=1 wait=0.0535
+[few-shot] ticket_id=T0111 retry=1 wait=0.0562
+[few-shot] ticket_id=T0155 retry=1 wait=0.0461
+[few-shot] ticket_id=T0100 retry=1 wait=0.0503
+[few-shot] ticket_id=T0068 retry=1 wait=0.0454
+[few-shot] ticket_id=T0135 retry=1 wait=0.0477
+[few-shot] ticket_id=T0009 retry=1 wait=0.0513
+[few-shot] ticket_id=T0067 retry=1 wait=0.0453
+[few-shot] ticket_id=T0106 retry=1 wait=0.0475
+[few-shot] ticket_id=T0097 retry=1 wait=0.0531
+[few-shot] ticket_id=T0003 retry=1 wait=0.0518
+[few-shot] ticket_id=T0019 retry=1 wait=0.0478
+[few-shot] ticket_id=T0086 retry=1 wait=0.0524
+[few-shot] ticket_id=T0065 retry=1 wait=0.0551
+[budget demo] ticket_id=T0002 retry=1 wait=0.0530
+[budget demo] ticket_id=T0116 retry=1 wait=0.0453
+[budget demo] ticket_id=T0153 retry=1 wait=0.0484
+[budget demo] ticket_id=T0039 retry=1 wait=0.0478
+[budget demo] ticket_id=T0152 retry=1 wait=0.0542
+[budget demo] ticket_id=T0043 retry=1 wait=0.0535
+[budget demo] ticket_id=T0111 retry=1 wait=0.0562
+[budget demo] ticket_id=T0155 retry=1 wait=0.0461
+[budget demo] ticket_id=T0100 retry=1 wait=0.0503
+[budget demo] ticket_id=T0068 retry=1 wait=0.0454
+[budget demo] ticket_id=T0135 retry=1 wait=0.0477
